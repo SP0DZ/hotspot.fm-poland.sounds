@@ -1,0 +1,1 @@
+DTMF pośrednik jest modułem przetwarzającym kody DTMF. Przeczytaj dokumentację po wiecej informacji.
