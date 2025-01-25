@@ -1,0 +1,1 @@
+Moduł F R N służy do łączenia się w sieci F R N. Po więcej informacji zerknij do dokumentacji.
